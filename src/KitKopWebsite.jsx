@@ -586,7 +586,7 @@ const KitKopWebsite = () => {
             </div>
           </div>
           <div className="border-t border-gray-800 pt-8 text-center text-sm opacity-50">
-            © 2025 KitKop / Kita Kopi. All rights reserved.
+            © 2025 rappskuyy. All rights reserved.
           </div>
         </div>
       </footer>
