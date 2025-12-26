@@ -315,7 +315,7 @@ const KitKopWebsite = () => {
           </div>
           <div 
             className="text-3xl md:text-5xl tracking-widest text-white opacity-95 drop-shadow-lg"
-            style={{ fontFamily: "'Caveat Brush', cursive" }}
+            style={{ fontFamily: "'Patrick Hand', cursive" }}
           >
             KITA KOPI
           </div>
@@ -559,7 +559,7 @@ const KitKopWebsite = () => {
                 <Coffee size={28} />
                 <h3 
                   className="text-3xl font-bold"
-                  style={{ fontFamily: "'Caveat Brush', cursive" }}
+                  style={{ fontFamily: "'Patrick Hand', cursive" }}
                 >
                   KitKop
                 </h3>
